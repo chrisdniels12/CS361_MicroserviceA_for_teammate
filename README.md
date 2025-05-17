@@ -41,14 +41,21 @@ C. If the microservice isn’t done, which parts aren’t done and when will the
 - N/A – the microservice is complete.
 
 D. How is your teammate going to access your microservice?
-Edward can clone the GitHub repository and run the Flask app locally. or he 
+Edward can open Github codepaces for this repo and run the flask app directly using microserviceA.py
 
 GitHub Repo: https://github.com/chrisdniels12/CS361_MicroserviceA_for_teammate
 
-Run instructions: ******************************
+Run instructions:
+1.   open the repo in Github codespaces (click green code button > Codespaces tav > create codespace on main)
+2.   now, at the bottom of the screen go to the terminal and run the following:
+3.   pip install -r requirements.txt
+4.   export FLASK_APP=microserviceA.py
+5.   flask run --host=0.0.0.0 --port=5000
 
-This will start the server at http://localhost:5000.
-
+6.   Click on the Port tab in codespaces, Githuv should automcatically detect port 5000 for use.
+7.   click open in Browser next to the 5000 port.
+8.   Now youll be able to access the service from a brower by a URL like this:
+9.   EXAMPLE URL: https://<your-username>-5000.<unique-id>.preview.app.github.dev/popularity?characterName=Spider-Man
 
 E. If your teammate cannot access/call YOUR microservice, what should they do? Can you be available to help them? What’s your availability?
 
