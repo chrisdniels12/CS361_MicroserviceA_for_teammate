@@ -66,7 +66,7 @@ I’m available Monday to Friday, from 1pm to 3pm and 5pm -8pm PST, Saturday and
 
 
 F. If your teammate cannot access/call your microservice, by when do they need to tell you?
-Please let me of about any issues by May 22, 2025 so we have time to fix them before integrating into your software.
+Please let me  about any issues you have by May 22, 2025 so we have time to fix them before integrating into your software.
 
 G. Is there anything else your teammate needs to know?
 - Input is case sensitive. Please use exact Marvel character names like "Iron Man", "Spider-Man".
