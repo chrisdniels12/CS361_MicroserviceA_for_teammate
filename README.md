@@ -1,4 +1,4 @@
-# CS361_MicroserviceA_for_teammate
+# COMMUNICATION CONTRACT for CS 361 MICROSERVICE A for TEAMMATE
 
 A. How to programmatically REQUEST data from the microservice you implemented. 
 To request data I used the HTTP Method: GET
@@ -44,6 +44,7 @@ D. How is your teammate going to access your microservice?
 Edward can clone the GitHub repository and run the Flask app locally. or he 
 
 GitHub Repo:  ********************************
+
 Run instructions: ******************************
 
 This will start the server at http://localhost:5000.
