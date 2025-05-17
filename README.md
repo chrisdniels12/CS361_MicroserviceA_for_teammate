@@ -43,7 +43,7 @@ C. If the microservice isn’t done, which parts aren’t done and when will the
 D. How is your teammate going to access your microservice?
 Edward can clone the GitHub repository and run the Flask app locally. or he 
 
-GitHub Repo:  ********************************
+GitHub Repo: https://github.com/chrisdniels12/CS361_MicroserviceA_for_teammate
 
 Run instructions: ******************************
 
