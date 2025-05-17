@@ -52,7 +52,7 @@ Run instructions:
 4.   export FLASK_APP=microserviceA.py
 5.   flask run --host=0.0.0.0 --port=5000
 
-6.   Click on the Port tab in codespaces, Githuv should automcatically detect port 5000 for use.
+6.   Click on the Ports tab in codespaces, Github should automcatically detect port 5000 for use.
 7.   click open in Browser next to the 5000 port.
 8.   Now youll be able to access the service from a brower by a URL like this:
 9.   EXAMPLE URL: https://<your-username>-5000.<unique-id>.preview.app.github.dev/popularity?characterName=Spider-Man
@@ -66,9 +66,8 @@ I’m available Monday to Friday, from 1pm to 3pm and 5pm -8pm PST, Saturday and
 
 
 F. If your teammate cannot access/call your microservice, by when do they need to tell you?
-May 22, 2025
+Please let me of about any issues by May 22, 2025 so we have time to fix them before integrating into your software.
 
 G. Is there anything else your teammate needs to know?
 - Input is case sensitive. Please use exact Marvel character names like "Iron Man", "Spider-Man".
-- Otherwise, everything should work out of the box
-
+- Everything should work out of the box if dependencies are installed from requirements.txt.
