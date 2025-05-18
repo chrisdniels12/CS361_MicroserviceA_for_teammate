@@ -5,7 +5,7 @@ To request data I used the HTTP Method: GET
 with this endpoint:
 **http://localhost:5000/popularity?characterName=<CharacterName>**
 
-Note: the queery has specific parameters: 
+Note: the query has specific parameters: 
 characterName is a string, It must have an exact name of the Marvel character as seen in the dictionary, this is case sensitive.
 
 **Example call:**
